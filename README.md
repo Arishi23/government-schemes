@@ -74,7 +74,3 @@ The chatbot uses several technologies:
 Make sure you have the following installed on your system:
 - Sox audio processing tool
 - Proper audio input/output devices configured
-
-## License
-
-[Add your license information here] 
