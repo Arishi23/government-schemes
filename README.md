@@ -2,6 +2,16 @@
 
 An interactive voice-based chatbot that provides information about Indian government schemes. The chatbot uses speech recognition to understand user queries and responds with voice output in the user's preferred language.
 
+## Demo
+
+[![Watch the demo video](
+
+Watch the demo video to see the chatbot in action:
+- Voice input processing
+- Real-time response generation
+- Multi-language voice output
+- PDF-based knowledge retrieval
+
 ## Features
 
 - 🎙️ Voice input for questions
